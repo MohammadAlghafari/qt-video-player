@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/resources/components">
+        <file>common/CircleProgress.qml</file>
+        <file>common/Clock.qml</file>
+        <file>common/Progress.qml</file>
+        <file>common/ListView.qml</file>
+        <file>common/qmldir</file>
+    </qresource>
+</RCC>
